@@ -1,1 +1,0 @@
-webpackJsonp([13],{584:function(e,t,u){"use strict";Object.defineProperty(t,"__esModule",{value:!0});var a=u(3),n=function(e){return e&&e.__esModule?e:{default:e}}(a);t.default={namespace:"count",state:{a:1,value:0},reducers:{addCount:function(e,t){var u=t.payload,a=u.step,s=e.value+a;return(0,n.default)({},e,{value:s})}},effects:{},subscriptions:{}},e.exports=t.default}});
